@@ -1,0 +1,84 @@
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="{{ site.url }}/assets/js/scripts.min.js"></script>
+
+{% if page.title == 'Introduction' %}
+<!-- Use MagicXML Script for home page -->
+
+<script type="text/javascript" src="{{ site.url }}/assets/js/plugins/m-xml.js"></script>
+<script type="text/javascript">
+    magicXML.transformAndReplace('.home-posts', '{{ site.url }}/feed.xml', '{{ site.url }}/assets/xslt/posts.xsl', [{ "name" : "today", "value" : new Date().toISOString() }]);
+
+    //new Date().toISOString()
+</script>
+
+
+<!--
+<script type="text/javascript">
+  var datepost = $(".devo-post-list").attr("devodatetime");
+  var now = new Date("December 26, 2013");
+
+  var Christmas = new Date(datepost);
+
+  if(now > Christmas) // today is after Christmas
+  {
+       // an id of a div that holds your images?
+       $("[devodatetime='" + Christmas + "'']").show();
+  }
+  </script>
+-->
+{% endif %}
+{% if site.search %}
+<!-- Jekyll Simple Search option -->
+<script>
+  $(document).ready(function() {
+      $('.search-field').simpleJekyllSearch({
+          jsonFile : '{{ site.url }}/search.json',
+          searchResults : '.search-results',
+          template : '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
+          noResults: '<p>Nothing found.</p>'
+        });
+  });
+
+  (function( $, window, undefined ) {
+    
+     var bs = {
+          close: $(".icon-remove-sign"),
+          searchform: $(".search-form"),
+          canvas: $("body"),
+          dothis: $('.dosearch')
+      };
+    
+    bs.dothis.on('click', function() {
+      $('.search-wrapper').css({ display: "block" });
+      bs.searchform.toggleClass('active');
+      bs.searchform.find('input').focus();
+      bs.canvas.toggleClass('search-overlay');
+    });
+    
+      bs.close.on('click', function() {
+        $('.search-wrapper').removeAttr( 'style' );
+        bs.searchform.toggleClass('active');
+        bs.canvas.removeClass('search-overlay');
+    });
+  })( jQuery, window );
+</script>
+{% endif %}
+{% if site.google_analytics %}
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', '{{ site.google_analytics }}']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+{% endif %}
+{% if site.disqus_shortname and page.comments %}{% include disqus_comments.html %}{% endif %}
