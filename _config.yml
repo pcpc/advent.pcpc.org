@@ -4,8 +4,9 @@ logo:             site-logo.png
 disqus_shortname: 
 search:           true
 #Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://advent.pcpc.org
+production_url:   http://advent.pcpc.org
 baseurl:          /advent.pcpc.org
+
 
 # Owner/author information
 owner:
