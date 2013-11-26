@@ -5,10 +5,3 @@ _site
 codekit-config.json
 node_modules
 Gemfile.lock
-_site/*
-_theme_packages/*
-Thumbs.db
-.DS_Store
-!.gitkeep
-.rbenv-version
-.rvmrc
