@@ -36,11 +36,6 @@
       </header>
       <h3>Devotional</h3>
       
-      <div class="entry-content" itemprop="description">
-        {{ content }}
-        {% if site.disqus_shortname and page.comments %}<div id="disqus_thread"></div><!-- /#disqus_thread -->{% endif %}
-      </div><!-- /.entry-content -->
-
       <footer class="entry-meta">
         <!-- <img src="{{ site.url }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }} photo" class="author-photo">
         <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person">By <span itemprop="name" class="fn"><a href="{{ site.url }}/about" title="About {{ site.owner.name }}" itemprop="url">{{ site.owner.name }}</a></span></span> -->
@@ -57,6 +52,11 @@
         {% endif %}
         <span><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}" itemprop="url"><i class="icon-link"></i> Permalink</a></span>
       </footer>
+
+      <div class="entry-content" itemprop="description">
+        {{ content }}
+        {% if site.disqus_shortname and page.comments %}<div id="disqus_thread"></div><!-- /#disqus_thread -->{% endif %}
+      </div><!-- /.entry-content -->
         
     </div><!-- /.entry-wrapper -->
 
