@@ -1,19 +1,19 @@
 ---
 title: "Day Ten of Advent"
 id: "125"
-slug: "2013-12-10-day-ten-of-advent"
-date: 2013-12-10
-tags: 
+slug: "2014-12-09-day-ten-of-advent"
+date: 2014-12-09
+tags:
 -  "Advent Devotionals"
 -  "Day Ten"
-scripture: 
+scripture:
   reference: "Psalm 27:1-4"
   text: "”The Lord is my light and my salvation; whom shall I fear? The Lord is the stronghold of my life; of whom shall I be afraid? When evildoers assail me to eat up my flesh, my adversaries and foes, it is they who stumble and fall. Though an army encamp against me, my heart shall not fear; though war arise against me, yet I will be confident. One thing have I asked of the Lord, that will I seek after: that I may dwell in the house of the Lord all the days of my life, to gaze upon the beauty of the Lord and to inquire in His temple.”"
-hymn: 
+hymn:
   title: "God Is My Strong Salvation"
   reference: "Trinity Hymnal"
   page: "667"
-prayer: 
+prayer:
   text: " Lord, be the light of my life. Drive away the fear that keeps me from trusting You with all the struggles and foes in my life. Thank You for Your presence, Your protection, and Your beauty, for they give me confidence. Amen."
 layout: post
 status: live
@@ -30,4 +30,3 @@ Because God is all of these things to David, he confidently asserts, “Of whom 
 Where does David derive this confidence? David’s central focus in life was to seek after the Lord, to be where He is, and to enjoy His beauty. David finds confidence in the worship of his living, protecting God, who reveals Himself by His light.
 
 At Christmas, as we adorn our home with lights, let us remember that it is God who brings His light to adorn our hearts so we can know Him. His light will draw us into His fellowship and drive out all darkness and fear.
-

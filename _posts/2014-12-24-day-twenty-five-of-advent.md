@@ -1,19 +1,19 @@
 ---
-title: "Christmas Day"
+title: "Day Twenty-Five of Advent"
 id: "140"
-slug: "2013-12-25-christmas-day"
-date: 2013-12-25
-tags: 
+slug: "2014-12-24-day-twenty-five-of-advent"
+date: 2014-12-24
+tags:
 -  "Advent Devotionals"
 -  "Day Twenty-Five"
-scripture: 
+scripture:
   reference: "Luke 2:4-7, 9-11"
   text: "“And Joseph also went up from Galilee, from the town of Nazareth, to Judea, to the city of David, which is called Bethlehem, because he was of the house and lineage of David, to be registered with Mary, his betrothed, who was with child. And while they were there, the time came for her to give birth. And she gave birth to her firstborn son and wrapped Him in swaddling cloths and laid him in a manger, because there was no place for them in the inn. … And an angel of the Lord appeared … and said to them, ‘Fear not, for behold, I bring you good news of a great joy that will be for all the people. For unto you is born this day in the city of David a Savior, who is Christ the Lord.’”"
-hymn: 
+hymn:
   title: "Hark! The Herald Angels Sing"
   reference: "Trinity Hymnal"
   page: "203"
-prayer: 
+prayer:
   text: "Thank you, Father, for breaking into this world through the womb of Mary and for the wonder of the Incarnation, where Your Son identifies with us and suffers for us. Thank you that in Jesus You, who had all power, became powerless for us. Thank you, that without giving up any of Your greatness, You stooped down low for us. Thank you that, veiled in flesh, Your Godhead we see. Amen."
 layout: post
 status: live

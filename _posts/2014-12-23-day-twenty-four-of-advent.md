@@ -1,19 +1,19 @@
 ---
 title: "Day Twenty-Four of Advent"
 id: "139"
-slug: "2013-12-24-day-twenty-four-of-advent"
-date: 2013-12-24
-tags: 
+slug: "2014-12-23-day-twenty-four-of-advent"
+date: 2014-12-23
+tags:
 -  "Advent Devotionals"
 -  "Day Twenty-Four"
-scripture: 
+scripture:
   reference: "Matthew 1:18-21"
   text: "“Now the birth of Jesus Christ was as follows: when His mother Mary had been betrothed to Joseph, before they came together she was found to be with child by the Holy Spirit. And Joseph her husband, being a righteous man and not wanting to disgrace her, planned to send her away secretly. But when he had considered this, behold, an angel of the Lord appeared to him in a dream, saying, ‘Joseph, son of David, do not be afraid to take Mary as your wife; for the Child who has been conceived in her is of the Holy Spirit. She will bear a Son; and you shall call His name Jesus, for He will save His people from their sins.’”"
-hymn: 
+hymn:
   title: "There Is No Name So Sweet on Earth"
   reference: "Trinity Hymnal"
   page: "178"
-prayer: 
+prayer:
   text: "Dear Jesus, make room in our hearts today that we may worship You in all Your glory. May we see our hearts today as they truly are and see our sin that we may truly recognize our need. Show us our Savior that we may cry out in sincere thanksgiving for Your life and work on our behalf. We love you Jesus, Savior of Your people. Amen."
 layout: post
 status: live

@@ -1,19 +1,19 @@
 ---
 title: "Day Eighteen of Advent"
 id: "133"
-slug: "2013-12-18-day-eighteen-of-advent"
-date: 2013-12-18
-tags: 
+slug: "2014-12-17-day-eighteen-of-advent"
+date: 2014-12-17
+tags:
 -  "Advent Devotionals"
 -  "Day Eighteen"
-scripture: 
+scripture:
   reference: "John 3:16-21"
   text: "“For God so loved the world, that He gave His only Son, that whoever believes in Him should not perish but have eternal life. For God did not send His Son into the world to condemn the world, but in order that the world might be saved through Him. Whoever believes in Him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God. And this is the judgment: the light has come into the world, and people loved the darkness rather than the light because their deeds were evil. For everyone who does wicked things hates the light and does not come to the light, lest his deeds should be exposed. But whoever does what is true comes to the light, so that it may be clearly seen that his deeds have been carried out in God.”"
-hymn: 
+hymn:
   title: "Of the Father’s Love Begotten"
   reference: "Trinity Hymnal"
   page: "162"
-prayer: 
+prayer:
   text: " Dear God, Warm our hearts anew with the wonder and beauty of Your love for us in Christ. May we receive Him again today like a child, with empty and eager hands. Amen."
 layout: post
 status: live
@@ -32,4 +32,3 @@ Here it is again: in the gift of Jesus Christ God loves the unlovely. God loves 
 Thus, it stands to reason that the greatest gift of all is Jesus Christ. Through faith in Christ God opens up to us, like a set of Russian nesting dolls, the mysterious and hidden treasures of His eternal life and love.
 
 Though man in his wickedness despises the love of God, having sought even to destroy it, the Gift remains given to all those who would receive it by faith.
-

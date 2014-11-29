@@ -1,19 +1,19 @@
 ---
 title: "Day Five of Advent"
 id: "120"
-slug: "2013-12-05-day-five-of-advent"
-date: 2013-12-05
-tags: 
+slug: "2014-12-04-day-five-of-advent"
+date: 2014-12-04
+tags:
 -  "Advent Devotionals"
 -  "Day Five"
-scripture: 
+scripture:
   reference: "John 1:6-9"
   text: "“There was a man sent from God, whose name was John. He came as a witness, to bear witness about the light, that all might believe through him. He was not the light, but came to bear witness about the light. The true light, which enlightens everyone, was coming into the world.”"
-hymn: 
+hymn:
   title: "Hail to the Lord’s Annointed"
   reference: "Trinity Hymnal"
   page: "311"
-prayer: 
+prayer:
   text: " Oh God, we are those who have walked in darkness but have now seen a great light. We are those who have dwelt in a land of deep darkness on whom Your light, Jesus, has shined. Thank You. Amen."
 layout: post
 status: live
@@ -26,4 +26,3 @@ Tragically, even with the light of God’s Word, we love the darkness. In the ni
 In Scripture God calls the prophet to shed the light of His Word into our darkness: to remind us that we’ve fallen from the narrow way into the dark wilderness of our flesh, the world, and the devil. The last and greatest Old Testament prophet, John the Baptist, was called to cry out from the dark wilderness to “bear witness about the light” (John 1:8).
 
 The “radiance of the glory of God” (Heb. 1:3), the Light was leaving the brilliance of His heavenly abode to dwell in a dark world. The brightest of Lights was coming to bear the darkest night of the soul. The Light of lights was coming into this lost world so that those of us hiding in darkness might find ourselves hidden in Him.
-
