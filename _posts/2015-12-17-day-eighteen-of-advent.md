@@ -1,8 +1,8 @@
 ---
 title: "Day Eighteen of Advent"
 id: "133"
-slug: "2014-12-17-day-eighteen-of-advent"
-date: 2014-12-17
+slug: "2015-12-17-day-eighteen-of-advent"
+date: 2015-12-17
 tags:
 -  "Advent Devotionals"
 -  "Day Eighteen"

@@ -1,8 +1,8 @@
 ---
 title: "Day Nine of Advent"
 id: "124"
-slug: "2014-12-08-day-nine-of-advent"
-date: 2014-12-08
+slug: "2015-12-08-day-nine-of-advent"
+date: 2015-12-08
 tags:
 -  "Advent Devotionals"
 -  "Day Nine"

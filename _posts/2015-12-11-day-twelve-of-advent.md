@@ -1,8 +1,8 @@
 ---
 title: "Day Twelve of Advent"
 id: "127"
-slug: "2014-12-11-day-twelve-of-advent"
-date: 2014-12-11
+slug: "2015-12-11-day-twelve-of-advent"
+date: 2015-12-11
 tags:
 -  "Advent Devotionals"
 -  "Day Twelve"

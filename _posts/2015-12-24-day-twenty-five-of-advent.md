@@ -1,8 +1,8 @@
 ---
 title: "Day Twenty-Five of Advent"
 id: "140"
-slug: "2014-12-24-day-twenty-five-of-advent"
-date: 2014-12-24
+slug: "2015-12-24-day-twenty-five-of-advent"
+date: 2015-12-24
 tags:
 -  "Advent Devotionals"
 -  "Day Twenty-Five"

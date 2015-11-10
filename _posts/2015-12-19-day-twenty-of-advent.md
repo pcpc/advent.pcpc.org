@@ -1,8 +1,8 @@
 ---
 title: "Day Twenty of Advent"
 id: "135"
-slug: "2014-12-19-day-twenty-of-advent"
-date: 2014-12-19
+slug: "2015-12-19-day-twenty-of-advent"
+date: 2015-12-19
 tags:
 -  "Advent Devotionals"
 -  "Day Twenty"

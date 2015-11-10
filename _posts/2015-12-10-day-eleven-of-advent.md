@@ -1,8 +1,8 @@
 ---
 title: "Day Eleven of Advent"
 id: "126"
-slug: "2014-12-10-day-eleven-of-advent"
-date: 2014-12-10
+slug: "2015-12-10-day-eleven-of-advent"
+date: 2015-12-10
 tags:
 -  "Advent Devotionals"
 -  "Day Eleven"

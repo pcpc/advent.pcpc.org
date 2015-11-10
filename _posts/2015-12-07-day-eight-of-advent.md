@@ -1,8 +1,8 @@
 ---
 title: "Day Eight of Advent"
 id: "123"
-slug: "2014-12-07-day-eight-of-advent"
-date: 2014-12-07
+slug: "2015-12-07-day-eight-of-advent"
+date: 2015-12-07
 tags:
 -  "Advent Devotionals"
 -  "Day Eight"

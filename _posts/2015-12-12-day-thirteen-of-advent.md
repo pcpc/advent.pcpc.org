@@ -1,8 +1,8 @@
 ---
 title: "Day Thirteen of Advent"
 id: "128"
-slug: "2014-12-12-day-thirteen-of-advent"
-date: 2014-12-12
+slug: "2015-12-12-day-thirteen-of-advent"
+date: 2015-12-12
 tags:
 -  "Advent Devotionals"
 -  "Day Thirteen"

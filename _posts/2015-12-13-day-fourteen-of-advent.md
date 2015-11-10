@@ -1,8 +1,8 @@
 ---
 title: "Day Fourteen of Advent"
 id: "129"
-slug: "2014-12-13-day-fourteen-of-advent"
-date: 2014-12-13
+slug: "2015-12-13-day-fourteen-of-advent"
+date: 2015-12-13
 tags:
 -  "Advent Devotionals"
 -  "Day Fourteen"

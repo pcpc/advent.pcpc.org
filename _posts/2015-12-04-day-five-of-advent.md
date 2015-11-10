@@ -1,8 +1,8 @@
 ---
 title: "Day Five of Advent"
 id: "120"
-slug: "2014-12-04-day-five-of-advent"
-date: 2014-12-04
+slug: "2015-12-04-day-five-of-advent"
+date: 2015-12-04
 tags:
 -  "Advent Devotionals"
 -  "Day Five"

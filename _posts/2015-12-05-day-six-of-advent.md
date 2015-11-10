@@ -1,8 +1,8 @@
 ---
 title: "Day Six of Advent"
 id: "121"
-slug: "2014-12-05-day-six-of-advent"
-date: 2014-12-05
+slug: "2015-12-05-day-six-of-advent"
+date: 2015-12-05
 tags:
 -  "Advent Devotionals"
 -  "Day Six"

@@ -1,8 +1,8 @@
 ---
 title: "Day Sixteen of Advent"
 id: "131"
-slug: "2014-12-15-day-sixteen-of-advent"
-date: 2014-12-15
+slug: "2015-12-15-day-sixteen-of-advent"
+date: 2015-12-15
 tags:
 -  "Advent Devotionals"
 -  "Day Sixteen"
