@@ -1,8 +1,8 @@
 ---
 title: "Day Seventeen of Advent"
 id: "132"
-slug: "2015-12-16-day-seventeen-of-advent"
-date: 2015-12-16
+slug: "2015-12-15-day-seventeen-of-advent"
+date: 2015-12-15
 tags:
 -  "Advent Devotionals"
 -  "Day Seventeen"

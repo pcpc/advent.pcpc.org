@@ -1,8 +1,8 @@
 ---
 title: "Day Fifteen of Advent"
 id: "130"
-slug: "2015-12-14-day-fifteen-of-advent"
-date: 2015-12-14
+slug: "2015-12-13-day-fifteen-of-advent"
+date: 2015-12-13
 tags:
 -  "Advent Devotionals"
 -  "Day Fifteen"

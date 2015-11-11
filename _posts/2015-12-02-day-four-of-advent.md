@@ -1,8 +1,8 @@
 ---
 title: "Day Four of Advent"
 id: "119"
-slug: "2015-12-03-day-four-of-advent"
-date: 2015-12-03
+slug: "2015-12-02-day-four-of-advent"
+date: 2015-12-02
 tags:
 -  "Advent Devotionals"
 -  "Day Four"

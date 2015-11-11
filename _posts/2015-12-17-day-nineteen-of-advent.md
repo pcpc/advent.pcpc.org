@@ -1,8 +1,8 @@
 ---
 title: "Day Nineteen of Advent"
 id: "134"
-slug: "2015-12-18-day-nineteen-of-advent"
-date: 2015-12-18
+slug: "2015-12-17-day-nineteen-of-advent"
+date: 2015-12-17
 tags:
 -  "Advent Devotionals"
 -  "Day Nineteen"

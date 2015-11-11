@@ -1,8 +1,8 @@
 ---
 title: "Day Twenty-Four of Advent"
 id: "139"
-slug: "2015-12-23-day-twenty-four-of-advent"
-date: 2015-12-23
+slug: "2015-12-22-day-twenty-four-of-advent"
+date: 2015-12-22
 tags:
 -  "Advent Devotionals"
 -  "Day Twenty-Four"
