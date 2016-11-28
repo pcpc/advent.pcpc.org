@@ -1,8 +1,8 @@
 ---
 title: "Day One of Advent"
 id: "116"
-slug: "2015-11-29-day-one-of-advent"
-date: 2015-11-29
+slug: "2016-11-27-day-one-of-advent"
+date: 2016-11-27
 tags:
 -  "Advent Devotionals"
 -  "Day One"

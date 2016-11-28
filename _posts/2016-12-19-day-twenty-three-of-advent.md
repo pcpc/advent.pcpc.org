@@ -1,8 +1,8 @@
 ---
 title: "Day Twenty-Three of Advent"
 id: "138"
-slug: "2015-12-21-day-twenty-three-of-advent"
-date: 2015-12-21
+slug: "2016-12-19-day-twenty-three-of-advent"
+date: 2016-12-19
 tags:
 -  "Advent Devotionals"
 -  "Day Twenty-Three"

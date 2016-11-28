@@ -1,8 +1,8 @@
 ---
 title: "Day Three of Advent"
 id: "118"
-slug: "2015-12-01-day-three-of-advent"
-date: 2015-12-01
+slug: "2016-11-29-day-three-of-advent"
+date: 2016-11-29
 tags:
 -  "Advent Devotionals"
 -  "Day Three"

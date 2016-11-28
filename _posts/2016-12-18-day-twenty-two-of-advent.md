@@ -1,8 +1,8 @@
 ---
 title: "Day Twenty-Two of Advent"
 id: "137"
-slug: "2015-12-20-day-twenty-two-of-advent"
-date: 2015-12-20
+slug: "2016-12-18-day-twenty-two-of-advent"
+date: 2016-12-18
 tags:
 -  "Advent Devotionals"
 -  "Day Twenty-Two"

@@ -1,8 +1,8 @@
 ---
 title: "Day Seven of Advent"
 id: "122"
-slug: "2015-12-05-day-seven-of-advent"
-date: 2015-12-05
+slug: "2016-12-03-day-seven-of-advent"
+date: 2016-12-03
 tags:
 -  "Advent Devotionals"
 -  "Day Seven"

@@ -1,8 +1,8 @@
 ---
 title: "Day Ten of Advent"
 id: "125"
-slug: "2015-12-08-day-ten-of-advent"
-date: 2015-12-08
+slug: "2016-12-06-day-ten-of-advent"
+date: 2016-12-06
 tags:
 -  "Advent Devotionals"
 -  "Day Ten"

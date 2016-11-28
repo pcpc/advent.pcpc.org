@@ -1,8 +1,8 @@
 ---
 title: "Day Two of Advent"
 id: "117"
-slug: "2015-11-30-day-two-of-advent"
-date: 2015-11-30
+slug: "2016-11-28-day-two-of-advent"
+date: 2016-11-28
 tags:
 -  "Advent Devotionals"
 -  "Day Two"

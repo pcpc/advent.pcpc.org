@@ -1,8 +1,8 @@
 ---
 title: "Day Twenty-One of Advent"
 id: "136"
-slug: "2015-12-19-day-twenty-one-of-advent"
-date: 2015-12-19
+slug: "2016-12-17-day-twenty-one-of-advent"
+date: 2016-12-17
 tags:
 -  "Advent Devotionals"
 -  "Day Twenty-One"
