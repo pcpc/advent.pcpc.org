@@ -7,7 +7,7 @@
 
 <script type="text/javascript" src="{{ site.url }}/assets/js/plugins/m-xml.js"></script>
 <script type="text/javascript">
-    magicXML.transformAndReplace('.home-posts', '{{ site.url }}/feed.xml', '{{ site.url }}/assets/xslt/posts.xsl', [{ "name" : "today", "value" : new Date().toISOString() }]);
+    magicXML.transformAndReplace('.home-post-list', '{{ site.url }}/feed.xml', '{{ site.url }}/assets/xslt/posts.xsl', [{ "name" : "today", "value" : new Date().toISOString() }]);
 
     //new Date().toISOString()
 </script>
