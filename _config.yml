@@ -5,25 +5,25 @@ logo:             site-logo.png
 search:           true
 
 #Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://advent.pcpc.org
+url:              https://advent.pcpc.org
 
 # Owner/author information
 owner:
   name:           Park Cities Presbyterian Church
   avatar:         bio-photo.jpg
   email:          webmaster@pcpc.org
-  url:            http://pcpc.org
+  url:            https://pcpc.org
   # Social networking links used in footer. Update and remove as you like.
   twitter:        parkcitiespca
   facebook:       ParkCitiesPCA
   github:
   stackexchange:
   linkedin:
-  instagram:
+  instagram:      parkcitiespca
   flickr:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    +PcpcOrg
+  #google_plus:    +PcpcOrg
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
